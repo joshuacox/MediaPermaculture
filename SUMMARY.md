@@ -7,4 +7,5 @@
 * Raster Graphics
 * Video Editing
 * Audio Editing
+* 3D
 
