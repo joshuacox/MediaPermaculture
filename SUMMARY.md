@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Permaculture](permaculture.md)
 * [Screenwriting](screenwriting.md)
-* Vector Graphics
+* [Vector Graphics](vector_graphics.md)
 * Raster Graphics
 * Video Editing
 * Audio Editing
