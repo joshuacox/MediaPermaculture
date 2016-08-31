@@ -7,6 +7,6 @@
 * [Raster Graphics](raster_graphics.md)
 * [Video Editing](video_editing.md)
 * [Audio Editing](audio_editing.md)
-* 3D
+* [3D](3d.md)
 * Page Layout
 
