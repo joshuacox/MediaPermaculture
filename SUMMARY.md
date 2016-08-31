@@ -5,4 +5,5 @@
 * Screenwriting
 * Vector Graphics
 * Raster Graphics
+* Video Editing
 
