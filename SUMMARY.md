@@ -4,4 +4,5 @@
 * [Permaculture](permaculture.md)
 * Screenwriting
 * Vector Graphics
+* Raster Graphics
 
