@@ -6,4 +6,5 @@
 * Vector Graphics
 * Raster Graphics
 * Video Editing
+* Audio Editing
 
