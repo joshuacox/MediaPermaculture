@@ -6,7 +6,7 @@
 * [Vector Graphics](vector_graphics.md)
 * [Raster Graphics](raster_graphics.md)
 * [Video Editing](video_editing.md)
-* Audio Editing
+* [Audio Editing](audio_editing.md)
 * 3D
 * Page Layout
 
