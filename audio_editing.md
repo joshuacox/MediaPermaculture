@@ -5,6 +5,10 @@
 KXStudio is a collection of applications and plugins for professional audio production.
 KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 14.04.2 LTS.
 
+### [Audacity](http://www.audacityteam.org/)
+
+Audacity® is free, open source, cross-platform audio software for multi-track recording and editing.
+
 ### [Qtractor](http://qtractor.sourceforge.net/)
 
 Qtractor is an Audio/MIDI multi-track sequencer application written in C++ with the Qt framework. Target platform is Linux, where the Jack Audio Connection Kit (JACK) for audio, and the Advanced Linux Sound Architecture (ALSA) for MIDI, are the main infrastructures to evolve as a fairly-featured Linux desktop audio workstation GUI, specially dedicated to the personal home-studio.
