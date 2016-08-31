@@ -8,4 +8,5 @@
 * Video Editing
 * Audio Editing
 * 3D
+* Page Layout
 
