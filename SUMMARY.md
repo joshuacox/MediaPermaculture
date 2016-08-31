@@ -8,5 +8,5 @@
 * [Video Editing](video_editing.md)
 * [Audio Editing](audio_editing.md)
 * [3D](3d.md)
-* Page Layout
+* [Page Layout](page_layout.md)
 
