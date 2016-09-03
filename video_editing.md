@@ -27,11 +27,13 @@ They did give us another great project:
 
 This is the backend that kino uses to capture video, but if you forego using kino and use this command line utility you'll get amazing capture results.  As I stated earlier, because dvgrab does not attempt to display the incoming stream I have never seen it fail.  This is in stark contrast to my experience on the Macintosh, where I would say a significant portion of all captures would fail consistently.
 
+Here is the command I most often use:
 
 ```
 dvgrab -autosplit -timestamp foo-
 ```
 
+it will autosplit when it detects a new clip (the camera stops), and will name the resulting file 'foo-' with a timestamp from the timecode given by the camera.
 
 
 
