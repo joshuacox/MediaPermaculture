@@ -11,6 +11,20 @@ Excellent tutorial introducing offline editing [Seth Kenlon](https://opensource.
 
 Easy-logging 2.0 is an addon that offers de-rushing and tagging functionnalities to the Blender video sequence editor.
 
+## miniDV
+
+### [Kino](http://kinodv.org/)
+
+While they have this to say:
+
+Kino has not been actively maintained since 2009. We encourage you to try other Linux video editors such as Shotcut, Kdenlive, Flowblade, OpenShot, PiTiVi, LiVES, and LightWorks.
+
+They did give us another great project
+
+#### dvgrab
+
+
+
 
 
 
