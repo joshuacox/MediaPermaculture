@@ -2,6 +2,8 @@
 
 ## General Linux Distros
 
+These are battle hardened distros that lock down their available software to frozen releases which only get security updates.  This means they should be very stable, which is great for new users who don't want to have to be fixing their OS while trying to get work done.
+
 ### [Linux Mint](https://www.linuxmint.com/)
 
 If this is your first time in Linux, then Linux Mint is probably the easiest distro to install with the least amount of hiccups.  It is actually a derivative of...
@@ -47,7 +49,7 @@ Pronounced like 'karma'
 
 ## Advanced Distros
 
-These distributions should not be your first linux experience, but definitely recommended after you've tried all the General Linux distros above as these will teach you about low level linux techniques the above hide from you.
+These distributions should not be your first linux experience, but definitely recommended after you've tried all the General Linux distros above as these will teach you about low level linux techniques the above hide from you.  You will have to roll up your sleeves and put on the adult pants in these distributions.  Things will break from time to time while updating your machine, and it will be up to YOU to fix it!  Or give up in shame and reinstall from scratch, tarring up your home folder and etc before you blow away the hard disk.
 
 ### [Arch Linux](https://www.archlinux.org/)
 
