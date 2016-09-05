@@ -2,6 +2,8 @@
 
 This is the process of getting your machine to boot more than one operating system.  This is most commnoly used when purchasing a new machine, wherein you want to install Linux and preserve the lame OS that the computer came with.
 
+I go so far as to have multiple Linux partitions I can boot from as well.  This makes my machine very resilient to breakage, of one distro breaks I simply boot to another and continue working.
+
 First, before anything else you should attempt to get a capture of the computer in it's raw state.  Before it is initialized the first time where it asks you to setup your user etc.
 
 If you do this you can sell the computer at a later date and reinitialize it to the exact state as when you bought it.
