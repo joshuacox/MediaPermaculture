@@ -49,7 +49,7 @@ Pronounced like 'karma'
 
 ## Advanced Distros
 
-These distributions should not be your first linux experience, but definitely recommended after you've tried all the General Linux distros above as these will teach you about low level linux techniques the above hide from you.  You will have to roll up your sleeves and put on the adult pants in these distributions.  Things will break from time to time while updating your machine, and it will be up to YOU to fix it!  Or give up in shame and reinstall from scratch, tarring up your home folder and etc before you blow away the hard disk.
+These distributions should not be your first linux experience, but definitely recommended after you've tried all the General Linux distros above as these will teach you about low level linux techniques the above hide from you.  You will have to roll up your sleeves and put on your adult pants in these distributions.  Things will break from time to time while updating your machine, and it will be up to YOU to fix it!  Or give up in shame and reinstall from scratch, tarring up your home folder and etc before you blow away the hard disk.
 
 ### [Arch Linux](https://www.archlinux.org/)
 
