@@ -35,7 +35,7 @@ These distributions are all specifically designed to create media.  Start with a
 > Studio is a collection of applications and plugins for professional audio production.
 KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 14.04.2 LTS. 
 
-### UbuntuStudio](http://ubuntustudio.org/)
+### [UbuntuStudio](http://ubuntustudio.org/)
 
 > Ubuntu Studio is a free and open source operative system, and an official flavor of Ubuntu. Ubuntu Studio is the most widely used multimedia orientated GNU/Linux distribution in the world. It comes preinstalled with a selection of the most common free multimedia applications available, and is configured for best performance for the Ubuntu Studio defined workflows: Audio, Graphics, Video, Photography and Publishing.
 
@@ -62,6 +62,8 @@ These distributions should not be your first linux experience, but definitely re
 > The Official Release of Slackware Linux by Patrick Volkerding is an advanced Linux operating system, designed with the twin goals of ease of use and stability as top priorities. Including the latest popular software while retaining a sense of tradition, providing simplicity and ease of use alongside flexibility and power, Slackware brings the best of all worlds to the table. 
 
 ## DIY Distro
+
+*Warning: this is way beyond gentoo levels of pain, only for the truly masochistic* 
 
 It would be deficient to not mention the ultimate DIY distro:
 
