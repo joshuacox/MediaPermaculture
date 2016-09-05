@@ -48,3 +48,11 @@ One of the nicest things about it is that it can remove duplicate files while le
 
 http://www.kevinslonka.com/files/20080918-Symbolic-and-Hard-Links-Explained.pdf
 
+### Backups
+
+You need to have backups in more than one place, given that you are going to be saving video you'll need a lot of space, the best deal I've found for this is the amazon cloud drive:
+
+https://www.amazon.com/clouddrive/
+
+for $60/year you get unlimited* storage space.  The *caveat is that they bandwidth limit you after 1TB/month (from what I can tell), so with my google fiber I was able to upload a terabyte in one night, but I woke up the next day and all transfers had slowed down from 40MB/s to 60KB/s.  It appears the download portion is completely unlimited (or set so high I have not hit it yet).
+
