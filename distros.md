@@ -51,17 +51,21 @@ Pronounced like 'karma'
 
 These distributions should not be your first linux experience, but definitely recommended after you've tried all the General Linux distros above as these will teach you about low level linux techniques the above hide from you.  You will have to roll up your sleeves and put on your adult pants in these distributions.  Things will break from time to time while updating your machine, and it will be up to YOU to fix it!  Or give up in shame and reinstall from scratch, tarring up your home folder and etc before you blow away the hard disk.
 
+### [Slackware](http://www.slackware.com/)
+
+Be sure and see [slackermedia](http://slackermedia.info/) if you are going this route.  Klaatu has made this a very stable distro, which puts slackware on the fence of the advanced to medium user level, as I think you will see far less breakage in slack than the next two I will mention.
+
+> The Official Release of Slackware Linux by Patrick Volkerding is an advanced Linux operating system, designed with the twin goals of ease of use and stability as top priorities. Including the latest popular software while retaining a sense of tradition, providing simplicity and ease of use alongside flexibility and power, Slackware brings the best of all worlds to the table. 
+
 ### [Arch Linux](https://www.archlinux.org/)
 
 > a lightweight and flexible Linux® distribution that tries to Keep It Simple.
 
+The big advantage/disadvantage of Arch Linux is cutting edge vs. bleeding edge.  It is both it's greatest advantage, in that you get the newest versions of software just days after they are released upstream.  This is also the greatest peril of Arch, in that shit will break on you all the time when people decide to change something that is not backwards compatible, or some other unforeseen difficulty.  However, that being said, I love ARCH!  It's my personal favorite.
+
 ### [Gentoo Linux](https://www.gentoo.org/)
 
 > Welcome to Gentoo, a flexible, source-based Linux distribution that becomes just about any system you need—and much more.
-
-### [Slackware](http://www.slackware.com/)
-
-> The Official Release of Slackware Linux by Patrick Volkerding is an advanced Linux operating system, designed with the twin goals of ease of use and stability as top priorities. Including the latest popular software while retaining a sense of tradition, providing simplicity and ease of use alongside flexibility and power, Slackware brings the best of all worlds to the table. 
 
 ## DIY Distro
 
