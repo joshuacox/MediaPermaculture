@@ -4,7 +4,7 @@
 
 
 > KXStudio is a collection of applications and plugins for professional audio production.
-KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 14.04.2 LTS.
+> KXStudio provides Debian and Ubuntu compatible repositories and its own Linux Distribution currently based on Ubuntu 14.04.2 LTS.
 
 
 
@@ -50,9 +50,9 @@ Of note, this is the same [guy](http://www.rncbc.org/) who originally wrote [Qja
 
 > guitarix is a virtual guitar amplifier for Linux running on Jack Audio Connection Kit. It is free as in speech and free as in beer. The available sourcecode allows to build it on other UNIX-like systems, too, namely for BSD and for MacOSX.
 
-guitarix takes the signal from your guitar as any real amp would do: as a mono-signal from your sound card. The input is processed by a main amp and a rack-section. Both can be routed separately and deliver a processed stereo-signal via Jack. You may fill the rack with effects from more than 25 built-in modules including stuff from a simple noise gate to brain-slashing modulation f/x like flanger, phaser or auto-wah.
+> guitarix takes the signal from your guitar as any real amp would do: as a mono-signal from your sound card. The input is processed by a main amp and a rack-section. Both can be routed separately and deliver a processed stereo-signal via Jack. You may fill the rack with effects from more than 25 built-in modules including stuff from a simple noise gate to brain-slashing modulation f/x like flanger, phaser or auto-wah.
 
-Your signal is processed with minimum latency. On any properly set-up Linux-system you don't have to wait more than 10ms until your sound is processed by guitarix.
+> Your signal is processed with minimum latency. On any properly set-up Linux-system you don't have to wait more than 10ms until your sound is processed by guitarix.
 
 
 
