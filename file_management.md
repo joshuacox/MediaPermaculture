@@ -39,10 +39,13 @@ Is a very important exercise in any media acquisition. For this I recommend
 
 #### [FSlint](http://www.pixelbeat.org/fslint/) 
 
-###### FSlint is a utility to find and clean various forms of lint on a filesystem.
-###### I.E. unwanted or problematic cruft in your files or file names.
-###### For example, one form of lint it finds is duplicate files.
-###### It has both GUI and command line modes.
+
+>  FSlint is a utility to find and clean various forms of lint on a filesystem.
+ I.E. unwanted or problematic cruft in your files or file names.
+ For example, one form of lint it finds is duplicate files.
+ It has both GUI and command line modes.
+
+
 
 One of the nicest things about it is that it can remove duplicate files while leaving a hardlink in place.  This means you can still access the file in both locations, but it only consumes a single copy of hard drive space, until you edit one, then they fork off again from each other.  Hard and Soft links is one of those concepts people usually don't get difference between,  here's a link if you want to know more:
 
@@ -55,4 +58,37 @@ You need to have backups in more than one place, given that you are going to be 
 https://www.amazon.com/clouddrive/
 
 for $60/year you get unlimited* storage space.  The *caveat is that they bandwidth limit you after 1TB/month (from what I can tell), so with my google fiber I was able to upload a terabyte in one night, but I woke up the next day and all transfers had slowed down from 40MB/s to 60KB/s.  It appears the download portion is completely unlimited (or set so high I have not hit it yet).
+
+### [Rclone](http://rclone.org/)
+
+Rclone is my favorite method for uploading and downloading from the Amazon Cloud Drive, and many other cloud services
+
+> Rclone is a command line program to sync files and directories to and from
+
+    Google Drive
+    Amazon S3
+    Openstack Swift / Rackspace cloud files / Memset Memstore
+    Dropbox
+    Google Cloud Storage
+    Amazon Drive
+    Microsoft One Drive
+    Hubic
+    Backblaze B2
+    Yandex Disk
+    The local filesystem
+
+Features
+
+    MD5/SHA1 hashes checked at all times for file integrity
+    Timestamps preserved on files
+    Partial syncs supported on a whole file basis
+    Copy mode to just copy new/changed files
+    Sync (one way) mode to make a directory identical
+    Check mode to check for file hash equality
+    Can sync to and from network, eg two different cloud accounts
+    Optional encryption (Crypt)
+    Optional FUSE mount (rclone mount)
+
+
+
 
