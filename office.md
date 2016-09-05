@@ -20,7 +20,9 @@ KDE offers a suite of programs to assist in an office type environment, although
 
 Which appears to be an evolution beyond Koffice, looks very interesting indeed.
 
-## Text editors
+# Text editors
+
+## CLI editors
 
 ### [VIM](http://www.vim.org/)
 
@@ -30,6 +32,8 @@ While the learning curve is steep, this is one worthy endeavor.  Learning VIM is
 
 I would be remiss to not mention Emacs, the debate between VIM and EMACS is more of a religious one that anything  based on fact that often ends in all out [WAR](https://en.wikipedia.org/wiki/Editor_war).  I'll let you decide.
 
+## GUI
+
 ### [Kate](https://kate-editor.org/)
 
 > The Kate project develops two main products: KatePart, the advanced editor component which is used in numerous KDE applications requiring a text editing component, and Kate, a MDI text editor application. In addition, we provide KWrite, a simple SDI editor shell which allows the user to select his/her favourite editor component.
@@ -37,6 +41,13 @@ I would be remiss to not mention Emacs, the debate between VIM and EMACS is more
 ### [Gedit](https://wiki.gnome.org/Apps/Gedit)
 > 
 While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor. 
+
+### [Atom](https://atom.io/)
+
+Is the new kid on the block 
+
+> Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
+
 
 ## Spreadsheet
 
