@@ -64,32 +64,31 @@ for $60/year you get unlimited* storage space.  The *caveat is that they bandwid
 Rclone is my favorite method for uploading and downloading from the Amazon Cloud Drive, and many other cloud services
 
 > Rclone is a command line program to sync files and directories to and from
-
-*     Google Drive
-    Amazon S3
-    Openstack Swift / Rackspace cloud files / Memset Memstore
-    Dropbox
-    Google Cloud Storage
-    Amazon Drive
-    Microsoft One Drive
-    Hubic
-    Backblaze B2
-    Yandex Disk
-    The local filesystem
-
-
-Features
-
-*     MD5/SHA1 hashes checked at all times for file integrity
-    Timestamps preserved on files
-    Partial syncs supported on a whole file basis
-    Copy mode to just copy new/changed files
-    Sync (one way) mode to make a directory identical
-    Check mode to check for file hash equality
-    Can sync to and from network, eg two different cloud accounts
-    Optional encryption (Crypt)
-    Optional FUSE mount (rclone mount)
-
+>
+>    *     Google Drive
+>    *    Amazon S3
+>    *    Openstack Swift / Rackspace cloud files / Memset Memstore
+>    *    Dropbox
+>    *    Google Cloud Storage
+>    *    Amazon Drive
+>    *    Microsoft One Drive
+>    *    Hubic
+>    *    Backblaze B2
+>    *    Yandex Disk
+>    *    The local filesystem
+>
+>
+>    Features
+>
+>    *     MD5/SHA1 hashes checked at all times for file integrity
+>    *    Timestamps preserved on files
+>    *    Partial syncs supported on a whole file basis
+>    *    Copy mode to just copy new/changed files
+>    *    Sync (one way) mode to make a directory identical
+>    *    Check mode to check for file hash equality
+>    *    Can sync to and from network, eg two different cloud accounts
+>    *    Optional encryption (Crypt)
+>    *    Optional FUSE mount (rclone mount)
 
 
 
