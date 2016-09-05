@@ -29,7 +29,7 @@ Is a very important exercise in any media acquisition. For this I recommend
 ###### For example, one form of lint it finds is duplicate files.
 ###### It has both GUI and command line modes.
 
-One of the nicest things about it is that it can remove duplicate files while leaving a hardlink in place.  Hard and Soft links is one of those concepts people usually don't get difference between,  here's a link if you want to know more:
+One of the nicest things about it is that it can remove duplicate files while leaving a hardlink in place.  This means you can still access the file in both locations, but it only consumes a single copy of hard drive space, until you edit one, then they fork off again from each other.  Hard and Soft links is one of those concepts people usually don't get difference between,  here's a link if you want to know more:
 
 http://www.kevinslonka.com/files/20080918-Symbolic-and-Hard-Links-Explained.pdf
 
