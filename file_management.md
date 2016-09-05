@@ -18,6 +18,21 @@ mv 100GOPRO `date -I`-GOPRO
 
 if you don't like the command line you can use whatever GUI method you prefer (right click and choose renmae, etc).  On choosing a date when there is a range of dates for the associated footage inside the folder,  just choose the last date that media was aquired in the folder, to be consistent.
 
+Now when you look at a long list of the file names they will sort by date quite naturally (notice the modification and create dates might be misleading and not useful for our purposes):
+```
+ls -lh
+total 72K
+drwxr-xr-x 2 thoth thoth 4.0K Aug 29 14:10 2015-07-22-GOPRO
+drwxr-xr-x 2 thoth thoth 4.0K Aug 29 13:58 2015-08-09-GOPRO
+drwxr-xr-x 2 thoth thoth 4.0K Aug 31 00:37 2016-02-01-GOPRO
+drwxr-xr-x 2 thoth thoth   82 Aug 31 00:38 2016-02-03-GOPRO
+drwxr-xr-x 2 thoth thoth 4.0K Aug 29 14:43 2016-04-17-GOPRO
+drwxrwxrwx 2 thoth thoth 4.0K Apr 17 15:26 2016-04-18-GOPRO
+drwxr-xr-x 4 thoth thoth   43 Aug 29 14:43 2016-04-18-PANA
+drwxrwxrwx 2 thoth thoth  12K Apr 22 21:25 2016-04-23-PANA
+drwxrwxrwx 2 thoth thoth  16K May  3 15:46 2016-07-24-PANA
+```
+
 ### De Duplication
 
 Is a very important exercise in any media acquisition. For this I recommend
