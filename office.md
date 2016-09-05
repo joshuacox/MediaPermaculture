@@ -14,7 +14,11 @@ Now, LibreOffice is a fork of OpenOffice that happened around the time Sun Micro
 
 ### [Koffice](https://www.kde.org/applications/office/)
 
-KDE offers a suite of programs to assist in an office type environment
+KDE offers a suite of programs to assist in an office type environment, although it seems most of this has evolved into...
+
+### [Calligra](https://www.calligra.org/)
+
+Which appears to be an evolution beyond Koffice, looks very interesting indeed.
 
 ## Text editors
 
