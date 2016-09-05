@@ -65,7 +65,7 @@ Rclone is my favorite method for uploading and downloading from the Amazon Cloud
 
 > Rclone is a command line program to sync files and directories to and from
 
-    Google Drive
+*     Google Drive
     Amazon S3
     Openstack Swift / Rackspace cloud files / Memset Memstore
     Dropbox
@@ -77,9 +77,10 @@ Rclone is my favorite method for uploading and downloading from the Amazon Cloud
     Yandex Disk
     The local filesystem
 
+
 Features
 
-    MD5/SHA1 hashes checked at all times for file integrity
+*     MD5/SHA1 hashes checked at all times for file integrity
     Timestamps preserved on files
     Partial syncs supported on a whole file basis
     Copy mode to just copy new/changed files
@@ -88,6 +89,7 @@ Features
     Can sync to and from network, eg two different cloud accounts
     Optional encryption (Crypt)
     Optional FUSE mount (rclone mount)
+
 
 
 
