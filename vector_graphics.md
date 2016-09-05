@@ -1,6 +1,5 @@
 # Vector Graphics
 
-
 ### [Inkscape](https://inkscape.org/)
 
 > Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux. It's free and open source.
