@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Permaculture](permaculture.md)
+* [Office](office.md)
 * [Screenwriting](screenwriting.md)
 * [Vector Graphics](vector_graphics.md)
 * [Raster Graphics](raster_graphics.md)
@@ -12,5 +13,4 @@
 * [2D Animation](2d_animation.md)
 * [File Management](file_management.md)
 * Distros
-* [Office](office.md)
 
