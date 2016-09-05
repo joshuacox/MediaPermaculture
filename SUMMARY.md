@@ -13,4 +13,5 @@
 * [2D Animation](2d_animation.md)
 * [File Management](file_management.md)
 * [Distros](distros.md)
+* MultiBooting
 
