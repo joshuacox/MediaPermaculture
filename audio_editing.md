@@ -42,3 +42,7 @@ Of note, this is the same [guy](http://www.rncbc.org/) who originally wrote [Qja
 #### [Yoshimi](http://yoshimi.sourceforge.net/)  (fork of ZynAddSubFX)
 
 > Yoshimi is a software synthesizer for Linux, a "fork" of ZynAddSubFX. ZynAddSubFX was founded by Nasca Octavian Paul and continued by many others; several years later, Yoshimi was founded by our dear friend, the late Cal, at a time when ZynAddSubFX showed amazing promise but did not satisfy his needs and ours. If you enjoy profound and powerful tonality with your Linux, please do try Yoshimi, we think you will feel the love!
+
+### [Musical-Artifacts](https://musical-artifacts.com/)
+
+  Great site to download soundfonts, guitarix and rakarrack presets.
