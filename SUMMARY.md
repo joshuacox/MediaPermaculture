@@ -14,4 +14,5 @@
 * [File Management](file_management.md)
 * [Distros](distros.md)
 * [MultiBooting](multibooting.md)
+* Slacker Media
 
